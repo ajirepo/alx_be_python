@@ -1,5 +1,5 @@
 #!/bin/bash
-wheather = str(input(print("What's the weather like today? (sunny/rainy/cold):")))
+wheather = input(print("What's the weather like today? (sunny/rainy/cold):"))
 
 if wheather == "sunny":
     print("Wear a t-shirt and sunglasses.")
